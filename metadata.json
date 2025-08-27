@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MAPSTONE Real Estate CRM",
+  "description": "A comprehensive Airtable-style Real Estate CRM system for MAPSTONE Real Estate. It includes sections for a dashboard, leads management, a lead pool, property listings, projects, and agent tracking, with simulated AI-powered features for message and presentation generation.",
+  "requestFramePermissions": []
+}

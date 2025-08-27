@@ -1,0 +1,22 @@
+{
+  "name": "MAPSTONE Real Estate CRM",
+  "short_name": "MapstoneCRM",
+  "description": "A comprehensive Airtable-style Real Estate CRM system for MAPSTONE Real Estate.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#1a2a44",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
